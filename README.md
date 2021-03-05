@@ -55,7 +55,7 @@ By the end of this section we need 3 things set up and noted down:
 <br/>
 
 1. If you haven't already, <a href="https://www.dynu.com/en-US/ControlPanel/Login">log in to dynu.com here</a>
-2. Go to the <a href="https://www.dynu.com/en-US/ControlPanel/Login">Add Dynamic DNS page here</a> and create a domain of your choice under option 1. Click the +Add button when you are finished. 
+2. Go to the <a href="https://www.dynu.com/en-US/ControlPanel/AddDDNS">Add Dynamic DNS page here</a> and create a domain of your choice under option 1. Click the +Add button when you are finished. 
 3. Note down the web-address/domain you created, <a href="https://www.dynu.com/en-US/ControlPanel/DDNS">you can find it in the list here</a>
 4. <a href="https://www.dynu.com/en-US/ControlPanel/ManageCredentials">Create an IP Update password here,</a> don't forget to keep to a note of it.
 
